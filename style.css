@@ -1,0 +1,9 @@
+body {
+    direction: rtl;
+}
+p {
+    font-family: sans-serif;
+}
+.p2 {
+    color: #800000;
+}
